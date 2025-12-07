@@ -12,7 +12,7 @@ const config = {
   },
 
   url: 'https://FizaSohail1.github.io', 
-  baseUrl: '/Physical_AI_Robotics_Book', 
+  baseUrl: '/Physical_AI_Robotics_Book/', 
   organizationName: 'FizaSohail1', 
   projectName: 'Physical_AI_Robotics_Book', 
   deploymentBranch: 'gh-pages',
