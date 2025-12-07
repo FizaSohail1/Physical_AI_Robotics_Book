@@ -19,16 +19,10 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  url: 'https://FizaSohail1.github.io', // your GitHub Pages URL
+  baseUrl: '/Physical_AI_Robotics_Book/', // repo name with trailing slash
+  organizationName: 'FizaSohail1', // your GitHub username
+  projectName: 'Physical_AI_Robotics_Book', // repo nam
 
   onBrokenLinks: 'throw',
 
@@ -97,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/FizaSohail1/Physical_AI_Robotics_Book.git',
             label: 'GitHub',
             position: 'right',
           },
